@@ -40,7 +40,7 @@
 	- [ ] Holy Smoke
 	- [ ] Top of the Lake
 - ## Gus Van Sant http://www.imdb.com/name/nm0001814/
-	- [ ] To Die For
+	- [ ] To Die For 1995 http://www.imdb.com/title/tt0114681/
 	- [X] Last Days http://www.imdb.com/title/tt0403217/
 	- [X] Elephant
 	- [ ] My Own Private River
@@ -57,6 +57,11 @@
 - ## J.C. Lauzon
 	- [X] Léolo
 	- [X] Un zoo la nuit
+- ## Steve Buscemi
+	- [ ] Trees Lougne (ou Happy Hour) 1996 http://www.imdb.com/title/tt0117958/
+- ## Sidney Lumet
+	- [ ] Network 1976 http://www.imdb.com/title/tt0074958/
+	- [ ] Dog day Afternoon 1975 http://www.imdb.com/title/tt0072890/
 
 
 
