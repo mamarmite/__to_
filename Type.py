@@ -1,4 +1,4 @@
-
+# Manage the files, the sections of these files and entries.
 class Type
 
     sections = []
@@ -10,5 +10,5 @@ class Type
     def add_section(section)
         Type.sections.append(section)
 
-    def add_section_content(section, content)
-        Type.sections[section].append(content)
+    def add_entry(section, entry)
+        Type.sections[section].append(entry)
