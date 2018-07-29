@@ -30,11 +30,15 @@ class Type:
     def add_entry(self, section_id, entry):
         self.sections[section].append(entry)
 
+    def create_file(self):
+        print("create_file from Type")
+        #title name with no spaces and specials char.
+
 
     def remove_section(self, section_id):
         # loop through sections and remove by id.
         for key, section in self.sections:
-            if section.id == section_id:
+            if (section.id == section_id):
                 self.sections.remove(section)
 
 
@@ -43,7 +47,7 @@ class Type:
         # Loop through section and after through entries.
         # loop through sections and remove by id.
         for key, section in self.sections:
-            if section.id == section_id:
+            if (section.id == section_id):
                 for key, entry in section.entries:
                     section.entries.remove(entry)
 
