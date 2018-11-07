@@ -1,4 +1,4 @@
-#__To_See list of Films 
+#__To_See Films list
 - ## David Cronenberg
 	- [ ] Crash *i
 	- [ ] Dead Ringers
@@ -62,7 +62,8 @@
 - ## Sidney Lumet
 	- [ ] Network 1976 http://www.imdb.com/title/tt0074958/
 	- [ ] Dog day Afternoon 1975 http://www.imdb.com/title/tt0072890/
-
+- ## Richard Schenkman
+	- [ ] The man from earth (https://www.imdb.com/title/tt0756683/)[https://www.imdb.com/title/tt0756683/]
 
 
 ## @todo
